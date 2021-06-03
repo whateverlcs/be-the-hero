@@ -1,11 +1,10 @@
-# Be the Hero 
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/whateverlcs/be-the-hero/blob/master/LICENSE) 
-
 # Sobre o projeto
 
 <h1 align="center">
     <img alt="BeTheHero" title="#Logo" src="https://github.com/whateverlcs/be-the-hero/blob/master/frontend/src/assets/logo.svg" width="200px" />
 </h1>
+
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/whateverlcs/be-the-hero/blob/master/LICENSE) 
 
 Be the Hero é uma aplicação full stack web e mobile construída durante a Semana Omnistack #11 (Hoje atual Next Level Week), evento organizado pela [Rocketseat](https://rocketseat.com.br/ "Site da Rocketseat").
 

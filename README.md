@@ -68,7 +68,7 @@ Pré-requisitos: npm / yarn
 git clone https://github.com/whateverlcs/be-the-hero
 
 # entrar na pasta do projeto front end web
-cd frontweb
+cd frontend
 
 # instalar dependências
 yarn install

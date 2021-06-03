@@ -3,9 +3,18 @@
 
 # Sobre o projeto
 
+<h1 align="center">
+    <img alt="BeTheHero" title="#Logo" src="https://github.com/whateverlcs/be-the-hero/blob/master/frontend/src/assets/logo.svg" width="200px" />
+</h1>
+
 Be the Hero é uma aplicação full stack web e mobile construída durante a Semana Omnistack #11 (Hoje atual Next Level Week), evento organizado pela [Rocketseat](https://rocketseat.com.br/ "Site da Rocketseat").
 
 A aplicação consiste em diminuir a distância entre Ongs e possíveis ''heróis'' que tem condições de ajudarem as Ongs com seus diversos casos, possibilitando que esses ''heróis'' tenham as informações da Ong e informações sobre os casos, além disso, possibilita as ONGs se registrarem para tornar isso tudo possível.
+
+## Layout mobile
+![Splash](https://github.com/whateverlcs/be-the-hero/blob/master/assets/splash.png) 
+![Cases](https://github.com/whateverlcs/be-the-hero/blob/master/assets/cases-mobile.png) 
+![More Info](https://github.com/whateverlcs/be-the-hero/blob/master/assets/more-info-cases.png)
 
 ## Layout web
 ![Logon](https://github.com/whateverlcs/be-the-hero/blob/master/assets/logon.png)

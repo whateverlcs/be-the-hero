@@ -37,10 +37,6 @@ A aplicação consiste em diminuir a distância entre Ongs e possíveis ''herói
 - Axios
 - Intl
 - Expo
-## Implantação em produção
-- Back end: Heroku
-- Front end web: Netlify
-- Banco de dados: Sqlite3
 
 # Como executar o projeto
 

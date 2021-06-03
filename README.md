@@ -9,9 +9,6 @@ Be the Hero é uma aplicação full stack web e mobile construída durante a Sem
 
 A aplicação consiste em diminuir a distância entre Ongs e possíveis ''heróis'' que tem condições de ajudarem as Ongs com seus diversos casos, possibilitando que esses ''heróis'' tenham as informações da Ong e informações sobre os casos, além disso, possibilita as ONGs se registrarem para tornar isso tudo possível.
 
-## Layout mobile
-![Mobile 1](https://github.com/acenelio/assets/raw/main/sds1/mobile1.png) ![Mobile 2](https://github.com/acenelio/assets/raw/main/sds1/mobile2.png)
-
 ## Layout web
 ![Logon](https://github.com/whateverlcs/be-the-hero/blob/master/assets/logon.png)
 

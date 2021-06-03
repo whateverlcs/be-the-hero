@@ -1,4 +1,4 @@
-# Big Game Survey 
+# Be the Hero 
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/whateverlcs/be-the-hero/blob/master/LICENSE) 
 
 # Sobre o projeto

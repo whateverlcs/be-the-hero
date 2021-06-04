@@ -41,7 +41,7 @@ A aplicação consiste em diminuir a distância entre Ongs e possíveis ''herói
 ![New Case](https://github.com/whateverlcs/be-the-hero/blob/master/assets/new-case.png)
 
 # ⚒ Tecnologias utilizadas
-## 👨‍💻 Back end
+## 👨‍💻 Back-end
 - NodeJS
 - Nodemon
 - Jest
@@ -52,7 +52,7 @@ A aplicação consiste em diminuir a distância entre Ongs e possíveis ''herói
 - Express
 - Knex
 - Sqlite
-## 🎨 Front end
+## 🎨 Front-end
 - HTML / CSS / JS
 - ReactJS
 - React Native
@@ -62,7 +62,7 @@ A aplicação consiste em diminuir a distância entre Ongs e possíveis ''herói
 
 # 👨‍🔧 Como executar o projeto
 
-## 👨‍💻 Back end
+## 👨‍💻 Back-end
 Pré-requisitos: NodeJS
 
 ```bash
@@ -79,7 +79,7 @@ npm install
 yarn start
 ```
 
-## 🎨 Front end
+## 🎨 Front-end
 Pré-requisitos: npm / yarn
 
 ```bash

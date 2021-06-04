@@ -72,6 +72,9 @@ git clone https://github.com/whateverlcs/be-the-hero
 # entrar na pasta do projeto back end
 cd backend
 
+# instale as dependências
+npm install
+
 # executar o projeto
 yarn start
 ```
